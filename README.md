@@ -30,4 +30,4 @@ Some bonus flag added like color flags, float print engine, boolean print, memo
 Otherwise libc function like strlen, memcpy.. were optimized for faster processing.
 
 
-#### Marks. 112/100
+### Marks. 112/100
